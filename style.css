@@ -1,0 +1,50 @@
+body {
+  box-sizing: border-box;
+  font-family: 'Lobster', 'Times New Roman', Times, serif;
+  color: #e69b55;
+}
+
+.header {
+  background-color: #ffffff;
+  color: #e69b55;
+  text-align: center;
+}
+
+.about-cookies {
+  background-color: #e69b55;
+  color: white;
+  text-align: center;
+  border-style: double none double none;
+  border-color: rgb(156, 73, 43);
+  padding: 25px;
+}
+
+.links {
+  background-color: #ffffff;
+  color: #e69b55;
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  padding-bottom: 100px;
+}
+
+h1 {
+  margin: 20px;
+  font-weight: 300;
+  font-size: 60px;
+  font-family: 'Lobster';
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: 200;
+  margin-bottom: 30px;
+  font-family: 'Lobster';
+}
+
+p {
+  font-size: 20px;
+  font-weight: 200;
+  color: black;
+  font-family: 'Playfair Display', serif;
+}
+
